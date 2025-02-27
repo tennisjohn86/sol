@@ -1,0 +1,25 @@
+{
+  "name": "EPPSTEIN",
+  "symbol": "EPST",
+  "uri": "https://raw.githubusercontent.com/tennisjohn86/meta/main/metadata.json",
+  "seller_fee_basis_points": 500,
+  "fee_recipient": "69j94UQSAbgcDZV142XHxeXVSDk8VXyuZpdtNpEF53io",
+  "seller_fee_collection_address": "69j94UQSAbgcDZV142XHxeXVSDk8VXyuZpdtNpEF53io",
+  "image": "https://i.imgur.com/hQBpXNk.png",
+  "seller_fee_burn_address": null,
+  "properties": {
+    "files": [
+      {
+        "uri": "https://i.imgur.com/hQBpXNk.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "digital",
+    "creators": [
+      {
+        "address": "69j94UQSAbgcDZV142XHxeXVSDk8VXyuZpdtNpEF53io",
+        "share": 100
+      }
+    ]
+  }
+}
